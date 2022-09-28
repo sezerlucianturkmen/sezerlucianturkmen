@@ -1,9 +1,8 @@
-### Hi there 👋
 
 <p align="center">
     
   
-  <img src ="dictionary.jpg">
+  <img height="30%" src ="dictionary.jpg">
     </p>
 
 <p align="center">
