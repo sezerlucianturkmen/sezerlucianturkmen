@@ -8,6 +8,9 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sezerlucianturkmen&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=sezerlucianturkmen&theme=darcula&hide_border=true&background=FFFFFF00">
     </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sezerlucianturkmen&style=flat-square&color=orange" alt=""/>
+ </p>
 
 <p align="center">
     <a href="https://tr.linkedin.com/in/sezerlucianturkmen" target="_blank">
