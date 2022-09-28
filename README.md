@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+    
+  
+  <img src ="dictionary.jpg">
+    </p>
 
 <p align="center">
     
