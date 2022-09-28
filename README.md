@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <img  src ="dictionary2.jpg">
+  <img  src ="dictionary2.jpg&background=FFFFFF00">
     </p>
 
 <p align="center">
