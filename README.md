@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+
+
+
+
+
 <p align="center">
     <a href="https://tr.linkedin.com/in/sezerlucianturkmen" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
